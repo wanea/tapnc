@@ -1,7 +1,7 @@
 {
-"name":"TheAdaProtocolNC",
-"description":"The Ada Protocol from New Caledonia.We support decentralization and learning. SPO",
-"ticker":"TAPNC",
-"homepage":"https://www.tap.nc",
-"extended":"https://raw.githubusercontent.com/wanea/tapnc/main/poolMetaDataExtend.json"
+"name": "TheAdaProtocolNC",
+"description": "The Ada Protocol from New Caledonia.We support decentralization and learning. SPO",
+"ticker": "TAPNC",
+"homepage": "https://www.tap.nc",
+"extended": "https://raw.githubusercontent.com/wanea/tapnc/main/poolMetaDataExtend.json"
 }
